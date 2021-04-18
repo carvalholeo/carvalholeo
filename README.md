@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Leonardo Carvalho.
+
+![Twitter Badge](https://img.shields.io/twitter/follow/_carvalho_leo?label=Follow%20me%20%40_carvalho_leo&style=social)
+![GitHub Followers](https://img.shields.io/github/followers/carvalholeo?style=social)
+
 
 <!--
 **carvalholeo/carvalholeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
