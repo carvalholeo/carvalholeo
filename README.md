@@ -28,28 +28,28 @@ I'm creating an online presence with my [Blog](https://leocarvalho.dev/posts/) a
 
 🧰 Toolbox
 
-<div class="img-container">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" class="tech-logos" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Framework" class="tech-logos" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" class="tech-logos" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="ESLint" class="tech-logos" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.JS" class="tech-logos background-white" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" class="tech-logos" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" class="tech-logos background-white" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" class="tech-logos" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" class="tech-logos" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" class="tech-logos" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node.JS" class="tech-logos" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM (Node Package Manager)" class="tech-logos" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" class="tech-logos" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Framework" class="tech-logos" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg" alt="Sequelize ORM" class="tech-logos background-white" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original-wordmark.svg" alt="Slack" class="tech-logos background-white" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" class="tech-logos background-white" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" class="tech-logos" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" class="tech-logos" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" class="tech-logos" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Google Cloud Platform" class="tech-logos" />
+<div style="display: flex; flex-wrap: wrap; width: 100%;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Framework" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="ESLint" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.JS" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px; background-color: #ffffff;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px; background-color: #ffffff;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node.JS" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM (Node Package Manager)" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Framework" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg" alt="Sequelize ORM" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px; background-color: #ffffff;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original-wordmark.svg" alt="Slack" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px; background-color: #ffffff;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px; background-color: #ffffff;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Google Cloud Platform" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
 </div>
 
 ---
@@ -93,37 +93,13 @@ I'm creating an online presence with my [Blog](https://leocarvalho.dev/posts/) a
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvalholeo&theme=radical&layout=compact&langs_count=7" alt="Top stats" class="stats-img"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvalholeo&theme=radical&layout=compact&langs_count=7" alt="Top stats" style="align: center; display: inline-block; height: 11em;"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=carvalholeo&theme=radical&count_private=true&include_all_commits=true" alt="Leo's GitHub stats" class="stats-img" />
+  <img src="https://github-readme-stats.vercel.app/api?username=carvalholeo&theme=radical&count_private=true&include_all_commits=true" alt="Leo's GitHub stats" style="align: center; display: inline-block; height: 11em;" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=carvalho_leo" alt="Leo's wakatime stats" class="stats-img" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=carvalho_leo" alt="Leo's wakatime stats" style="align: center; display: inline-block; height: 11em;" />
 </a>
 </div>
 
-<style>
-  .tech-logos {
-    display: inline-block;
-    height: 50px;
-    margin: 0.20em;
-    padding: 0.2em;
-    width: 60px;
-  }
-  img.background-white {
-    background-color: #ffffff;
-  }
-
-  .img-container {
-    display: flex;
-    flex-wrap: wrap;
-    width: 100%;
-  }
-
-  .stats-img {
-    align: center;
-    display: inline-block;
-    height: 11em;
-  }
-</style>
