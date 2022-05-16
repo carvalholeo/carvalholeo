@@ -59,6 +59,7 @@ I'm creating an online presence with my [Blog](https://leocarvalho.dev/posts/) a
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Code Splitting no ReactJS](https://www.youtube.com/watch?v=sIiT1HhBlG8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
