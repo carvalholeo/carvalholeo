@@ -56,35 +56,9 @@ Estou criando uma presença online com meu [Blog](https://leocarvalho.dev/posts/
 
 ---
 
-📺 Últimos vídeos no YouTube
+### Últimos vídeos e posts
 
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-<!-- YOUTUBE-VIDEOS-LIST:END -->
-
-
-▶ [...mais vídeos no YouTube](https://www.youtube.com/channel/UC8c7IUMpnczt9pmsHlXYxXw?sub_confirmation=1)
-
----
-
-🕹️ Últimos vídeos na Twitch
-
-<!-- TWITCH-VIDEOS-LIST:START -->
-<!-- TWITCH-VIDEOS-LIST:END -->
-
-
-▶ [...mais vídeos na Twitch](https://www.twitch.tv/carvalho_leo)
-
----
-
-📘 Últimos posts no blog
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-▶ [...mais posts no blog](https://leocarvalho.dev)
-
----
+[Veja aqui a lista dos últimos conteúdos que eu criei](README.md#media)
 
 ## &#x1f4c8; Minhas estatísticas no GitHub
 

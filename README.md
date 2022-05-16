@@ -28,7 +28,7 @@ I'm creating an online presence with my [Blog](https://leocarvalho.dev/posts/) a
 
 ---
 
-🧰 Toolbox
+### 🧰 Toolbox
 
 <div style="display: flex; flex-wrap: wrap; width: 100%;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
@@ -56,12 +56,13 @@ I'm creating an online presence with my [Blog](https://leocarvalho.dev/posts/) a
 
 ---
 
+### Media
+
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Code Splitting no ReactJS](https://www.youtube.com/watch?v=sIiT1HhBlG8)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
-
 
 ▶ [...more YouTube videos](https://www.youtube.com/channel/UC8c7IUMpnczt9pmsHlXYxXw?sub_confirmation=1)
 
@@ -72,7 +73,6 @@ I'm creating an online presence with my [Blog](https://leocarvalho.dev/posts/) a
 <!-- TWITCH-VIDEOS-LIST:START -->
 <!-- TWITCH-VIDEOS-LIST:END -->
 
-
 ▶ [...more Twitch videos](https://www.twitch.tv/carvalho_leo)
 
 ---
@@ -81,7 +81,6 @@ I'm creating an online presence with my [Blog](https://leocarvalho.dev/posts/) a
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
 
 ▶ [...more blog articles](https://leocarvalho.dev)
 
