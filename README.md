@@ -5,6 +5,8 @@
 ![Twitch Status](https://img.shields.io/twitch/status/carvalho_leo?style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8c7IUMpnczt9pmsHlXYxXw?style=social)
 
+[Versão em Português aqui](README.pt-BR.md)
+
 A Web developer and programming teacher, focused on JavaScript technologies, mainly but not only for backend.
 
 I'm a passionate to learn and teach others about tech. For this, I create tech content and some examples projects, where everyone can learn and follow my train of thought when I created them. Below, at Toolbox, you can found my hard skills.
@@ -77,11 +79,6 @@ I'm creating an online presence with my [Blog](https://leocarvalho.dev/posts/) a
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Por que eu estou deixando o Google Analytics?](https://leocarvalho.dev/posts/por-que-eu-estou-tentando-deixar-os-servi%C3%A7os-do-google/)
-- [Usando blocklist para validar dados de formulários](https://leocarvalho.dev/posts/usando-blocklist-para-validar-dados-de-formul%C3%A1rios/)
-- [Apredizados com a programação de um bot para o Twitter](https://leocarvalho.dev/posts/apredizados-com-a-programa%C3%A7%C3%A3o-de-um-bot-para-o-twitter/)
-- [Usando a diretiva Do Not Track](https://leocarvalho.dev/posts/usando-header-do-not-track/)
-- [Usando variáveis de ambiente](https://leocarvalho.dev/posts/usando-vari%C3%A1veis-de-ambiente/)
 <!-- BLOG-POST-LIST:END -->
 
 
@@ -102,4 +99,3 @@ I'm creating an online presence with my [Blog](https://leocarvalho.dev/posts/) a
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=carvalho_leo" alt="Leo's wakatime stats" style="align: center; display: inline-block; height: 11em;" />
 </a>
 </div>
-
