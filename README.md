@@ -80,6 +80,11 @@ I'm creating an online presence with my [Blog](https://leocarvalho.dev/posts/) a
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Por que eu estou deixando o Google Analytics?](https://leocarvalho.dev/posts/por-que-eu-estou-tentando-deixar-os-servi%C3%A7os-do-google/)
+- [Usando blocklist para validar dados de formulários](https://leocarvalho.dev/posts/usando-blocklist-para-validar-dados-de-formul%C3%A1rios/)
+- [Apredizados com a programação de um bot para o Twitter](https://leocarvalho.dev/posts/apredizados-com-a-programa%C3%A7%C3%A3o-de-um-bot-para-o-twitter/)
+- [Usando a diretiva Do Not Track](https://leocarvalho.dev/posts/usando-header-do-not-track/)
+- [Usando variáveis de ambiente](https://leocarvalho.dev/posts/usando-vari%C3%A1veis-de-ambiente/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://leocarvalho.dev)
