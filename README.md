@@ -80,11 +80,11 @@ I'm creating an online presence with my [Blog](https://leocarvalho.dev/posts/) a
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Minha decisão de mudar do Windows para Linux](https://leocarvalho.dev/minha-decisao-de-mudar-do-windows-para-linux/)
 - [Morte cruel da API do Twitter com sinais de brutalidade](https://leocarvalho.dev/morte-cruel-da-api-do-twitter-com-sinais-de-brutalidade/)
 - [Vem por aí](https://leocarvalho.dev/coming-soon/)
 - [Por que eu estou deixando o Google Analytics?](https://leocarvalho.dev/por-que-eu-estou-deixando-o-google-analytics/)
 - [Usando blocklist para validar dados de formulários](https://leocarvalho.dev/usando-blocklist-para-validar-dados-de-formularios/)
-- [Apredizados com a programação de um bot para o Twitter](https://leocarvalho.dev/apredizados-com-a-programacao-de-um-bot-para-o-twitter/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://leocarvalho.dev)
