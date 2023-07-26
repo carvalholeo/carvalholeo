@@ -71,6 +71,7 @@ I'm creating an online presence with my [Blog](https://leocarvalho.dev/posts/) a
 🕹️ Latest Twitch Videos
 
 <!-- TWITCH-VIDEOS-LIST:START -->
+- [Projeto novo - LIVE](https://www.twitch.tv/carvalho_leo)
 <!-- TWITCH-VIDEOS-LIST:END -->
 
 ▶ [...more Twitch videos](https://www.twitch.tv/carvalho_leo)
