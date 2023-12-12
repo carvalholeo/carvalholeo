@@ -71,6 +71,7 @@ I'm creating an online presence with my [Blog](https://leocarvalho.dev/posts/) a
 🕹️ Latest Twitch Videos
 
 <!-- TWITCH-VIDEOS-LIST:START -->
+- [Projeto novo](https://www.twitch.tv/videos/1881794729)
 <!-- TWITCH-VIDEOS-LIST:END -->
 
 ▶ [...more Twitch videos](https://www.twitch.tv/carvalho_leo)
@@ -80,11 +81,11 @@ I'm creating an online presence with my [Blog](https://leocarvalho.dev/posts/) a
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Por que eu estou deixando o Google Analytics?](https://leocarvalho.dev/posts/por-que-eu-estou-tentando-deixar-os-servi%C3%A7os-do-google/)
-- [Usando blocklist para validar dados de formulários](https://leocarvalho.dev/posts/usando-blocklist-para-validar-dados-de-formul%C3%A1rios/)
-- [Apredizados com a programação de um bot para o Twitter](https://leocarvalho.dev/posts/apredizados-com-a-programa%C3%A7%C3%A3o-de-um-bot-para-o-twitter/)
-- [Usando a diretiva Do Not Track](https://leocarvalho.dev/posts/usando-header-do-not-track/)
-- [Usando variáveis de ambiente](https://leocarvalho.dev/posts/usando-vari%C3%A1veis-de-ambiente/)
+- [Escolhas do novo ambiente](https://leocarvalho.dev/escolhas-do-novo-ambiente/)
+- [Minha decisão de mudar do Windows para Linux](https://leocarvalho.dev/minha-decisao-de-mudar-do-windows-para-linux/)
+- [Morte cruel da API do Twitter com sinais de brutalidade](https://leocarvalho.dev/morte-cruel-da-api-do-twitter-com-sinais-de-brutalidade/)
+- [Vem por aí](https://leocarvalho.dev/coming-soon/)
+- [Por que eu estou deixando o Google Analytics?](https://leocarvalho.dev/por-que-eu-estou-deixando-o-google-analytics/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://leocarvalho.dev)
