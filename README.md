@@ -101,6 +101,6 @@ I'm creating an online presence with my [Blog](https://leocarvalho.dev/posts/) a
   <img src="https://github-readme-stats.vercel.app/api?username=carvalholeo&theme=radical&count_private=true&include_all_commits=true" alt="Leo's GitHub stats" style="align: center; display: inline-block; height: 11em;" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=carvalho_leo" alt="Leo's wakatime stats" style="align: center; display: inline-block; height: 11em;" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=carvalholeo" alt="Leo's wakatime stats" style="align: center; display: inline-block; height: 11em;" />
 </a>
 </div>
