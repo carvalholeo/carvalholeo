@@ -18,10 +18,9 @@ Estou criando uma presença online com meu [Blog](https://leocarvalho.dev/posts/
 ### 📰 Fatos rápidos e curiosos sobre mim
 
 - Graduado pela Universidade Estácio, em Análise e Desenvolvimento de Sistemas 🧑🏽‍🎓
-- Estudante na UNIVESP, em Engenharia da Computação 🎒
-- 27 anos 🎂
+- 28 anos 🎂
 - Pronomes: Ele/Dele 🙆🏽‍♂️🌈
-- Professor Generalista de Programação Fullstack na @DigitalHouseBrasil 🧑🏽‍🏫
+- Desenvolvedor backend na Namu 🧑🏽‍🏫
 - Apaixonado por café ☕
 - Pessoa com TDAH 🤔
 - Eu prefiro ser chamado pelo meu apelido, Léo. Quando alguém me chama pelo meu nome, em geral eu penso que a pessoa está com raiva de mim ou chateada comigo 🥺
