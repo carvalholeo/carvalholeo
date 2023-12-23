@@ -12,7 +12,7 @@ A Web developer and programming teacher, focused on JavaScript technologies, mai
 
 I'm a passionate to learn and teach others about tech. For this, I create tech content and some examples projects, where everyone can learn and follow my train of thought when I created them. Below, at Toolbox, you can found my hard skills.
 
-I'm creating an online presence with my [Blog](https://leocarvalho.dev/) and [YouTube](https://www.youtube.com/channel/UC8c7IUMpnczt9pmsHlXYxXw) channel, with the most part content in Brazilian Portuguese, focused on Junior and out-of-tech people, helping them to enter into software development industry.
+I'm creating an online presence with my [Blog](https://leocarvalho.dev/) and [YouTube](https://youtube.com/@carvalho_leo) channel, with the most part content in Brazilian Portuguese, focused on Junior and out-of-tech people, helping them to enter into software development industry.
 
 ---
 

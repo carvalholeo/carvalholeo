@@ -12,7 +12,7 @@ Um desenvolvedor web e professor de programação, focado em tecnologias Javascr
 
 Eu sou um apaixonado em aprender e ensinar outros sobre tecnologia. Para isso, crio conteúdo e alguns projetos de exemplo, onde todos podem aprender a seguir minha linha de raciocínio enquanto eu os criei. Abaixo, no Cinto de Utilidades, você encontra minhas competências técnicas.
 
-Estou criando uma presença online com meu [Blog](https://leocarvalho.dev/) e canal no [YouTube](https://www.youtube.com/channel/UC8c7IUMpnczt9pmsHlXYxXw), com conteúdo majoritariamente em português, focado em pessoas júniores e de fora da área de tecnologia, ajudando-as a entrar na indústria de desenvolvimento de software.
+Estou criando uma presença online com meu [Blog](https://leocarvalho.dev/) e canal no [YouTube](https://youtube.com/@carvalho_leo), com conteúdo majoritariamente em português, focado em pessoas júniores e de fora da área de tecnologia, ajudando-as a entrar na indústria de desenvolvimento de software.
 
 ---
 
