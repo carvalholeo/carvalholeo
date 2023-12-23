@@ -30,29 +30,26 @@ I'm creating an online presence with my [Blog](https://leocarvalho.dev/) and [Yo
 
 ### 🧰 Toolbox
 
-<div style="display: flex; flex-wrap: wrap; width: 100%;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap Framework" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="ESLint" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.JS" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px; background-color: #ffffff;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px; background-color: #ffffff;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node.JS" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM (Node Package Manager)" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Framework" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg" alt="Sequelize ORM" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px; background-color: #ffffff;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original-wordmark.svg" alt="Slack" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px; background-color: #ffffff;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px; background-color: #ffffff;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Google Cloud Platform" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
-</div>
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&style=flat-square&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&style=flat-square&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&style=flat-square&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&style=flat-square&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&style=flat-square&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=flat-square&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&style=flat-square&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=flat-square&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&style=flat-square&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&style=flat-square&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&style=flat-square&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&style=flat-square&logoColor=black)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&style=flat-square&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&style=flat-square&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&style=flat-square&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=flat-square&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&style=flat-square&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&style=flat-square&logoColor=white)
 
 ---
 
