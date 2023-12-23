@@ -1,9 +1,10 @@
 ### Olá pessoas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, eu sou o Léo Carvalho!
 
-![Perfil no GitHub](https://img.shields.io/github/followers/carvalholeo?style=social)
-![Siga no Twitter](https://img.shields.io/twitter/follow/_carvalho_leo?style=social)
-![Twitch](https://img.shields.io/twitch/status/carvalho_leo?style=social)
-![Canal no YouTube](https://img.shields.io/youtube/channel/subscribers/UC8c7IUMpnczt9pmsHlXYxXw?style=social)
+![Perfil no GitHub](https://img.shields.io/github/followers/carvalholeo?style=for-the-badge&logo=github&logoColor=white)
+![Siga no Twitter](https://img.shields.io/twitter/follow/_carvalho_leo?style=for-the-badge&logo=x&logoColor=white)
+![Siga no Mastodon](https://img.shields.io/mastodon/follow/109525667964736745?domain=https%3A%2F%2Fbolha.us&style=for-the-badge&logo=mastodon&logoColor=white)
+![Twitch](https://img.shields.io/twitch/status/carvalho_leo?style=for-the-badge&logo=twitch&logoColor=white)
+![Canal no YouTube](https://img.shields.io/youtube/channel/subscribers/UC8c7IUMpnczt9pmsHlXYxXw?style=for-the-badge&logo=youtube&logoColor=white)
 
 [English version here](README.md)
 
