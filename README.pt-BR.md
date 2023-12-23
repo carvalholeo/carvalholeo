@@ -85,7 +85,39 @@ Estou criando uma presença online com meu [Blog](https://leocarvalho.dev/) e ca
 
 ### Últimos vídeos e posts
 
-[Veja aqui a lista dos últimos conteúdos que eu criei](README.md#media)
+📺 Vídeos mais recentes no YouTube
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Code Splitting no ReactJS](https://www.youtube.com/watch?v=sIiT1HhBlG8)
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+▶ [...mais vídeos do YouTube](https://www.youtube.com/channel/UC8c7IUMpnczt9pmsHlXYxXw?sub_confirmation=1)
+
+---
+
+🕹️ Vídeos mais recentes na Twitch
+
+<!-- TWITCH-VIDEOS-LIST:START -->
+- [Projeto novo](https://www.twitch.tv/videos/1881794729)
+<!-- TWITCH-VIDEOS-LIST:END -->
+
+▶ [...mais vídeos da Twitch](https://www.twitch.tv/carvalho_leo)
+
+---
+
+📘 Artigos mais recentes no blog
+
+<!-- BLOG-POST-LIST:START -->
+- [Escolhas do novo ambiente](https://leocarvalho.dev/escolhas-do-novo-ambiente/)
+- [Minha decisão de mudar do Windows para Linux](https://leocarvalho.dev/minha-decisao-de-mudar-do-windows-para-linux/)
+- [Morte cruel da API do Twitter com sinais de brutalidade](https://leocarvalho.dev/morte-cruel-da-api-do-twitter-com-sinais-de-brutalidade/)
+- [Vem por aí](https://leocarvalho.dev/coming-soon/)
+- [Por que eu estou deixando o Google Analytics?](https://leocarvalho.dev/por-que-eu-estou-deixando-o-google-analytics/)
+<!-- BLOG-POST-LIST:END -->
+
+▶ [...mais artigos do blog](https://leocarvalho.dev)
+
+---
 
 ## &#x1f4c8; Minhas estatísticas no GitHub
 
