@@ -1,4 +1,4 @@
-### Olá pessoas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, eu sou o Léo Carvalho!
+### Olá pessoas, eu sou o Léo Carvalho!
 
 [![Perfil no GitHub](https://img.shields.io/github/followers/carvalholeo?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carvalholeo)
 [![Siga no Twitter](https://img.shields.io/twitter/follow/_carvalho_leo?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_carvalho_leo)

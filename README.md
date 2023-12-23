@@ -1,4 +1,4 @@
-### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Leonardo "Léo" Carvalho!
+### Hello there, I am Leonardo "Léo" Carvalho!
 
 [![GitHub followers](https://img.shields.io/github/followers/carvalholeo?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carvalholeo)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/_carvalho_leo?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_carvalho_leo)
