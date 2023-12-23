@@ -1,10 +1,10 @@
 ### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Leonardo "Léo" Carvalho!
 
-![GitHub followers](https://img.shields.io/github/followers/carvalholeo?style=for-the-badge&logo=github&logoColor=white)
-![Follow on Twitter](https://img.shields.io/twitter/follow/_carvalho_leo?style=for-the-badge&logo=x&logoColor=white)
-![Follow on Mastodon](https://img.shields.io/mastodon/follow/109525667964736745?domain=https%3A%2F%2Fbolha.us&style=for-the-badge&logo=mastodon&logoColor=white)
-![Twitch Status](https://img.shields.io/twitch/status/carvalho_leo?style=for-the-badge&logo=twitch&logoColor=white)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8c7IUMpnczt9pmsHlXYxXw?style=for-the-badge&logo=youtube&logoColor=white)
+[![GitHub followers](https://img.shields.io/github/followers/carvalholeo?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carvalholeo)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/_carvalho_leo?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_carvalho_leo)
+[![Follow on Mastodon](https://img.shields.io/mastodon/follow/109525667964736745?domain=https%3A%2F%2Fbolha.us&style=for-the-badge&logo=mastodon&logoColor=white)](https://bolha.us/@carvalholeo)
+[![Twitch Status](https://img.shields.io/twitch/status/carvalho_leo?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.com/carvalho_leo)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC8c7IUMpnczt9pmsHlXYxXw?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@carvalho_leo)
 
 [Versão em Português aqui](README.pt-BR.md)
 
