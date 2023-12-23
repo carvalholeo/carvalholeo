@@ -13,3 +13,4 @@ jobs:
         with:
           comment_tag_name: "BLOG-POST-LIST"
           feed_list: "https://leocarvalho.dev/rss"
+          readme_path: "README.md,README.pt-BR.md"

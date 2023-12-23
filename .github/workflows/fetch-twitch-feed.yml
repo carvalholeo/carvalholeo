@@ -15,3 +15,4 @@ jobs:
         with:
           comment_tag_name: "TWITCH-VIDEOS-LIST"
           feed_list: "https://twitchrss.appspot.com/vod/carvalho_leo"
+          readme_path: "README.md,README.pt-BR.md"
