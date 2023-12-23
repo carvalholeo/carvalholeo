@@ -28,28 +28,58 @@ I'm creating an online presence with my [Blog](https://leocarvalho.dev/) and [Yo
 
 ---
 
-### 🧰 Toolbox
+:toolbox: I'm working now
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&style=flat-square&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&style=flat-square&logoColor=white)
+![.ENV](https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&style=flat-square&logoColor=black)
+![App Store](https://img.shields.io/badge/App%20Store-0D96F6?logo=appstore&style=flat-square&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&style=flat-square&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=cloudflare&style=flat-square&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&style=flat-square&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&style=flat-square&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&style=flat-square&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&style=flat-square&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&style=flat-square&logoColor=white)
+![Ghost](https://img.shields.io/badge/Ghost-15171A?logo=ghost&style=flat-square&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&style=flat-square&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google%20Play-414141?logo=googleplay&style=flat-square&logoColor=white)
+![Google Seach Console](https://img.shields.io/badge/Google%20Search%20Console-458CF5?logo=googlesearchconsole&style=flat-square&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&style=flat-square&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=flat-square&logoColor=black)
-![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&style=flat-square&logoColor=white)
+![JSON Web Tokens](https://img.shields.io/badge/JSON%20Web%20Tokens-000000?logo=jsonwebtokens&style=flat-square&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&style=flat-square&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=flat-square&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&style=flat-square&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&style=flat-square&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&style=flat-square&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&style=flat-square&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&style=flat-square&logoColor=black)
+![Plausible Analytics](https://img.shields.io/badge/Plausible%20Analytics-5850EC?logo=plausibleanalytics&style=flat-square&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&style=flat-square&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=flat-square&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&style=flat-square&logoColor=white)
+
+:memo: I want to study / work
+
+![C Sharp](https://img.shields.io/badge/C%20Sharp-512BD4?logo=csharp&style=flat-square&logoColor=white)
+![Codecov](https://img.shields.io/badge/Codecov-F01F7A?logo=codecov&style=flat-square&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&style=flat-square&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-512BD4?logo=kubernetes&style=flat-square&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-326CE5?logo=dotnet&style=flat-square&logoColor=white)
+![PageSpeed Insights](https://img.shields.io/badge/PageSpeed%20Insights-4285F4?logo=pagespeedinsights&style=flat-square&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&style=flat-square&logoColor=white)
+
+:card_index_dividers: I've already worked with
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&style=flat-square&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?logo=ejs&style=flat-square&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsfot%20Excel-217346?logo=microsoftexcel&style=flat-square&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&style=flat-square&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?logo=googleanalytics&style=flat-square&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&style=flat-square&logoColor=white)
+![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?logo=jekyll&style=flat-square&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&style=flat-square&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&style=flat-square&logoColor=black)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&style=flat-square&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&style=flat-square&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=flat-square&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&style=flat-square&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&style=flat-square&logoColor=white)
+![X (former Twitter)](https://img.shields.io/badge/X%20(former%20Twitter)-000000?logo=x&style=flat-square&logoColor=white)
 
 ---
 
