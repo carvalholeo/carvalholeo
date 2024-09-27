@@ -10,7 +10,7 @@ jobs:
     name: Update this repo's README with latest videos from Twitch
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4.1.1
+      - uses: actions/checkout@v4.2.0
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "TWITCH-VIDEOS-LIST"
