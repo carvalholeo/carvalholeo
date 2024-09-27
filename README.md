@@ -19,7 +19,7 @@ I'm creating an online presence with my [Blog](https://leocarvalho.dev/) and [Yo
 ### 📰 Quick, fun facts about me
 
 - Graduated by Estácio University, on System's Analysis and Development 🧑🏽‍🎓
-- 28 years old 🎂
+- 29 years old 🎂
 - Pronouns: He/Him 🙆🏽‍♂️🌈
 - Backend Developer Namu 🧑🏽‍🏫
 - Coffee passionate ☕
