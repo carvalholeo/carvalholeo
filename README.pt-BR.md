@@ -108,11 +108,11 @@ Estou criando uma presença online com meu [Blog](https://leocarvalho.dev/) e ca
 📘 Artigos mais recentes no blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Hackativismo nas eleições de 2022](https://leocarvalho.dev/hackativismo-nas-eleicoes-de-2022/)
 - [Escolhas do novo ambiente](https://leocarvalho.dev/escolhas-do-novo-ambiente/)
 - [Minha decisão de mudar do Windows para Linux](https://leocarvalho.dev/minha-decisao-de-mudar-do-windows-para-linux/)
 - [Morte cruel da API do Twitter com sinais de brutalidade](https://leocarvalho.dev/morte-cruel-da-api-do-twitter-com-sinais-de-brutalidade/)
 - [Vem por aí](https://leocarvalho.dev/coming-soon/)
-- [Por que eu estou deixando o Google Analytics?](https://leocarvalho.dev/por-que-eu-estou-deixando-o-google-analytics/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...mais artigos do blog](https://leocarvalho.dev)
