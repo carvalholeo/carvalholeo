@@ -19,11 +19,11 @@ Estou criando uma presença online com meu [Blog](https://leocarvalho.dev/) e ca
 ### 📰 Fatos rápidos e curiosos sobre mim
 
 - Graduado pela Universidade Estácio, em Análise e Desenvolvimento de Sistemas 🧑🏽‍🎓
-- 29 anos 🎂
+- 30 anos 🎂
 - Pronomes: Ele/Dele 🙆🏽‍♂️🌈
-- Desenvolvedor backend na Namu 🧑🏽‍🏫
+- Desenvolvedor backend no Banco do Brasil 🧑🏽‍🏫
 - Apaixonado por café ☕
-- Pessoa com TDAH 🤔
+- Pessoa com TDAH 🧩
 - Eu prefiro ser chamado pelo meu apelido, Léo. Quando alguém me chama pelo meu nome, em geral eu penso que a pessoa está com raiva de mim ou chateada comigo 🥺
 
 ---
