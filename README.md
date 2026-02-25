@@ -19,11 +19,11 @@ I'm creating an online presence with my [Blog](https://leocarvalho.dev/) and [Yo
 ### 📰 Quick, fun facts about me
 
 - Graduated by Estácio University, on System's Analysis and Development 🧑🏽‍🎓
-- 29 years old 🎂
+- 30 years old 🎂
 - Pronouns: He/Him 🙆🏽‍♂️🌈
-- Backend Developer Namu 🧑🏽‍🏫
+- Backend Developer at Banco do Brasil 🧑🏽‍🏫
 - Coffee passionate ☕
-- ADHD person 🤔
+- ADHD person 🧩
 - I prefer called by my nickname, Léo. When someone calls me by my first name, in general, I think the person is angry or upset with me 🥺
 
 ---
