@@ -19,7 +19,7 @@ Estou criando uma presença online com meu [Blog](https://leocarvalho.dev/) e ca
 ### 📰 Fatos rápidos e curiosos sobre mim
 
 - Graduado pela Universidade Estácio, em Análise e Desenvolvimento de Sistemas 🧑🏽‍🎓
-- 30 anos 🎂
+- 31 anos 🎂
 - Pronomes: Ele/Dele 🙆🏽‍♂️🌈
 - Desenvolvedor backend no Banco do Brasil 🧑🏽‍🏫
 - Apaixonado por café ☕
