@@ -109,10 +109,10 @@ I'm creating an online presence with my [Blog](https://leocarvalho.dev/) and [Yo
 
 <!-- BLOG-POST-LIST:START -->
 - [Hackativismo nas eleições de 2022](https://leocarvalho.dev/hackativismo-nas-eleicoes-de-2022/)
+- [Um novo ambiente [Parte 2]](https://leocarvalho.dev/um-novo-ambiente-parte-2/)
 - [Escolhas do novo ambiente](https://leocarvalho.dev/escolhas-do-novo-ambiente/)
 - [Minha decisão de mudar do Windows para Linux](https://leocarvalho.dev/minha-decisao-de-mudar-do-windows-para-linux/)
 - [Morte cruel da API do Twitter com sinais de brutalidade](https://leocarvalho.dev/morte-cruel-da-api-do-twitter-com-sinais-de-brutalidade/)
-- [Vem por aí](https://leocarvalho.dev/coming-soon/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://leocarvalho.dev)
